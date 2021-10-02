@@ -1,8 +1,12 @@
+import java.util.Scanner;
 public class PositiveNegative {
 
     public static void main(String[] args) {
 
-        double number = 12.3;
+     Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number");
+        
+        double d = sc.nextDouble();
 
         // true if number is less than 0
         if (number < 0.0)
