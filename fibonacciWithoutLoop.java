@@ -1,9 +1,9 @@
 
-//  This code will print fibbonacci series till a given number without using a single loop.
+//  This code will print fibonacci series till a given number without using a single loop.
 
 
 import java.util.Scanner;
-public class fibbonacciWithoutLoop
+public class fibonacciWithoutLoop
 {
     public static int recur(int n){
         if(n == 0){
