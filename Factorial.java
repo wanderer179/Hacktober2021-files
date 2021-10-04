@@ -1,3 +1,7 @@
+/*Written a java program to calculate the factorial of 5. The class have a
+parameterized constructor to initialize data members. It also have member
+functions to calculate and display the values of data members and the result.*/
+
 
 public class Factorial {
 	
