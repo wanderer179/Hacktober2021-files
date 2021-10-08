@@ -1,4 +1,3 @@
-```java
 class FactorialExample
 {  
   public static void main(String args[])
@@ -12,4 +11,3 @@ class FactorialExample
     System.out.println("Factorial of "+number+" is: "+fact);    
   }  
 }  
-```
